@@ -1,12 +1,90 @@
-<h1 align="center">Hi 👋, I'm Gopireddy saikiran</h1>
-<h3 align="center">Best Dealer for AWS DevOps, Java Full stack Developer</h3>
+![Saikiran's GitHub Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gopireddysaikiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopireddysaikiran" height="30" width="40" /></a>
-</p>
+# 👋 Hi, I'm Gopireddy Saikiran
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+🚀 **AWS Certified Solutions Architect** | **Java Full Stack Developer** | **DevOps Enthusiast**  
+🔧 Passionate about **Cloud Computing, CI/CD, Automation, and Scalable Architectures**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopireddysaikiran&show_icons=true&locale=en&layout=compact" alt="gopireddysaikiran" /></p>
+---
+
+## 🛠️ Tech Stack & Skills
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+---
+
+## 📌 About Me
+
+- 🎓 **B.Tech in Computer Science & Engineering (Software Engineering)**
+- 🌟 AWS Certified Solutions Architect | Google Cloud Certified | Microsoft Cloud Certified
+- 🏆 Passionate about designing scalable cloud architectures & solving complex problems
+- 🤖 Experienced in Machine Learning, Data Analytics, and AI-driven solutions
+- 💬 Love contributing to open-source projects & mentoring aspiring developers
+
+---
+
+## 💼 Work Experience
+
+### 🚀 AWS DevOps Intern @ QWatch Digital Security Innovations
+- Automated infrastructure processes using **Shell Scripting & Jenkins**
+- Deployed **Node.js applications on AWS EC2 with Docker**
+- Implemented **Kubernetes for container orchestration** and **ArgoCD for continuous delivery**
+
+### 👨‍💻 Project Intern @ Infosys
+- Developed **E-Doctor System**, a web-based doctor appointment app using **Spring Boot & React**
+- Built RESTful APIs with **Spring Data JPA & MySQL**
+
+### 🎨 Web Developer & Graphic Designer @ GauravGo Technologies
+- Designed interactive web applications & marketing materials using **React & Canva**
+
+### 📊 Power BI Data Analyst @ EY
+- Created **real-time dashboards** with Power BI to provide **data-driven insights**
+
+---
+
+## 🚀 Notable Projects
+
+### ABSA: Aspect-Based Sentiment Analysis 📝
+- Built a **sentiment analysis app** using **React & ML models**
+- Utilized Kaggle dataset & implemented **advanced text preprocessing**
+
+### ANPR: Automatic Number Plate Recognition 🚗
+- Developed **real-time ANPR system** using **OpenCV & Tesseract OCR**
+- Automated data storage with **Python & Pandas**
+
+---
+
+## 📜 Certifications
+
+✅ **AWS Certified Solutions Architect**  
+✅ **Google Cloud Data Analytics Certified**  
+✅ **Microsoft Cloud Skill Challenge 2024**  
+✅ **IBM Certified Full Stack Developer**  
+✅ **Cisco CCNA Certified**  
+
+---
+
+## 📬 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-gopireddysaikiran-181717?style=for-the-badge&logo=github)](https://github.com/gopireddysaikiran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GopireddySaikiran-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Gopireddysaikiran)
+[![G.dev](https://img.shields.io/badge/Google%20Dev-saikirangopireddy-4285F4?style=for-the-badge&logo=google)](https://g.dev/saikirangopireddy)
+
+📩 **Email**: saikiran66002@gmail.com  
+📞 **Phone**: +91-9177647234  
+
+---
+
+⭐ **From nothing, To something, To everything** – *Conor McGregor*  
+🌱 Always Learning | 💡 Innovating | 🚀 Building
